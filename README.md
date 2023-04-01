@@ -1,6 +1,6 @@
-# MultiStep
+# Sales app frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+This is a app in that you can buy a service, and send the information to the server  
 
 ## Development server
 
